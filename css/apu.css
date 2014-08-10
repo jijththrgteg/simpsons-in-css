@@ -15,7 +15,7 @@
 
 #apu .head *
 {
-    border: 1px solid #110b00;
+    border: 1px solid #110000;
 }
 
 #apu .head .no-border
@@ -32,12 +32,12 @@
 
 #apu .head .hair
 {
-    background: #3c454c;
+    background: #3a454c;
 }
 
 #apu .head .body
 {
-    background: #ec9f22;
+    background: #ec9322;
 }
 
 #apu .head .hair1
